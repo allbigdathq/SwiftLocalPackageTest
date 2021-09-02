@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AllbigdatAnalytics",
+        "repositoryURL": "git@github.com:allbigdathq/AllbigdatAnalytics.git",
+        "state": {
+          "branch": null,
+          "revision": "8c15950f387f360439e95b3d8130ab92817bb575",
+          "version": "0.3.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
